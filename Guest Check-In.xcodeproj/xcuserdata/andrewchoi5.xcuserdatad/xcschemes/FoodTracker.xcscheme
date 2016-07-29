@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CA1902DB1B10E523000271C4"
-               BuildableName = "FoodTracker.app"
+               BuildableName = "Guest Check-In.temp_caseinsensitive_rename.app"
                BlueprintName = "FoodTracker"
-               ReferencedContainer = "container:FoodTracker.xcodeproj">
+               ReferencedContainer = "container:Guest Check-In.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CA1902EF1B10E523000271C4"
-               BuildableName = "FoodTrackerTests.xctest"
+               BuildableName = "Guest Check-In.temp_caseinsensitive_rename.xctest"
                BlueprintName = "FoodTrackerTests"
-               ReferencedContainer = "container:FoodTracker.xcodeproj">
+               ReferencedContainer = "container:Guest Check-In.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CA1902DB1B10E523000271C4"
-            BuildableName = "FoodTracker.app"
+            BuildableName = "Guest Check-In.temp_caseinsensitive_rename.app"
             BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            ReferencedContainer = "container:Guest Check-In.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CA1902DB1B10E523000271C4"
-            BuildableName = "FoodTracker.app"
+            BuildableName = "Guest Check-In.temp_caseinsensitive_rename.app"
             BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            ReferencedContainer = "container:Guest Check-In.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CA1902DB1B10E523000271C4"
-            BuildableName = "FoodTracker.app"
+            BuildableName = "Guest Check-In.temp_caseinsensitive_rename.app"
             BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            ReferencedContainer = "container:Guest Check-In.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
